@@ -54,13 +54,13 @@ document.querySelectorAll('.details-toggle').forEach(button => {
 const skills = {
   lead: {
     index: 'CAPABILITY / 01',
-    title: 'IT leadership & delivery',
+    title: 'IT Leadership & Delivery',
     copy: 'Aligning teams, stakeholders, and technology delivery around clear operational priorities and business outcomes.',
     tags: ['Agile / Scrum', 'Project management', 'IT service management', 'Stakeholder communication', 'Jira', 'Azure DevOps']
   },
   analysis: {
     index: 'CAPABILITY / 02',
-    title: 'Business analysis',
+    title: 'Business Analysis',
     copy: 'Turning business needs into clear requirements, process models, user stories, acceptance criteria, and workable solutions.',
     tags: ['Requirements analysis', 'AS-IS / TO-BE', 'User stories', 'Acceptance criteria', 'Change management', 'Process mapping']
   },
@@ -72,7 +72,7 @@ const skills = {
   },
   data: {
     index: 'CAPABILITY / 04',
-    title: 'Data & governance',
+    title: 'Data & Governance',
     copy: 'Improving reporting reliability, operational visibility, process documentation, and data integrity in enterprise environments.',
     tags: ['Power BI', 'SQL validation', 'SharePoint', 'Dataverse', 'SOPs', 'IMDS / BOM data']
   }
