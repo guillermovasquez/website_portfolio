@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="13 14 421 364" role="img" aria-label="GV monogram">
+  <defs>
+    <linearGradient id="gv" gradientUnits="userSpaceOnUse" x1="13" y1="14" x2="434" y2="378">
+      <stop offset="0" stop-color="#43dcff"/>
+      <stop offset=".55" stop-color="#7fa8ff"/>
+      <stop offset="1" stop-color="#a88bff"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#gv)" fill-rule="evenodd" d="M201 14L317 215L434 14L342 14L364 55L317 135L270 54L293 14Z M13 14L224 378L293 256L224 136L177 136L153 176L83 54L129 54L153 94L199 94L153 14Z M155 175L199 175L246 255L224 297L153 177Z"/>
+</svg>
